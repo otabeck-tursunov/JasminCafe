@@ -6,7 +6,7 @@
 html[data-theme="light"],
 :root {
     --primary: #79aec8;
-    --secondary: #417690;
+    --secondary: #ff0000;
     --accent: #f5dd5d;
     --primary-fg: #fff;
 
@@ -24,7 +24,7 @@ html[data-theme="light"],
     --breadcrumbs-link-fg: var(--body-bg);
     --breadcrumbs-bg: #264b5d;
 
-    --link-fg: #417893;
+    --link-fg: #934141;
     --link-hover-color: #036;
     --link-selected-fg: var(--secondary);
 
